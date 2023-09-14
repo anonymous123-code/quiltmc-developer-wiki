@@ -4,6 +4,8 @@ title: Getting started with Quilt
 
 # Getting started with Quilt
 
+THIS SHOULDNT BE THERE
+
 ## Basic requirements
 
 In order to start modding Minecraft, you'll need to know a couple things.
